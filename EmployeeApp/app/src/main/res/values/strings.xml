@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EmployeeApp</string>
+    <string name="password_text2">Password</string>
+    <string name="department_text">Department</string>
+    <string name="register_button">Register</string>
+    <string name="district_text">District</string>
+    <string name="name">Name</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter email</string>
+    <string name="admin_button">Admin</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="employee">Employee</string>
+    <string name="admin">Admin</string>
+    <string name="enter_password">Enter password</string>
+    <string name="password">Password</string>
+    <string name="email_email">Email email</string>
+    <string name="register_an_employee">Register an Employee</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="new_password">New Password</string>
+    <string name="required">*</string>
+    <string name="required2">*</string>
+    <string name="enter_phone_number">Phonenumber</string>
+    <string name="hint_enter_email">Enter Email</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="hint_enter_department">Enter department</string>
+    <string name="hint_enter_district">Enter district</string>
+    <string name="hint_enter_full_name">Enter full name</string>
+</resources>

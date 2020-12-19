@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113669141765",
+    "firebase_url": "https://employeeapp-d43bd.firebaseio.com",
+    "project_id": "employeeapp-d43bd",
+    "storage_bucket": "employeeapp-d43bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113669141765:android:dd77bc6105df4fc468f36c",
+        "android_client_info": {
+          "package_name": "com.materialdesign.employeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113669141765-sscfuma1plbm6h6bubi8jdjdq7h5avd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWDU6hmx6to0EGZNzpZsfcrlmn7Bj82E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113669141765-sscfuma1plbm6h6bubi8jdjdq7h5avd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
